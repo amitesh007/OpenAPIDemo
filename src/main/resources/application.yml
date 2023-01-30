@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: openAPIDemo
+netty:
+  default:
+    allocator:
+      max-order: 3
